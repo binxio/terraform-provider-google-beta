@@ -7,7 +7,7 @@ require (
 	github.com/aws/aws-sdk-go v1.31.9 // indirect
 	github.com/client9/misspell v0.3.4
 	github.com/davecgh/go-spew v1.1.1
-	github.com/dnaeon/go-vcr v1.0.1
+	github.com/dnaeon/go-vcr v1.2.0
 	github.com/gammazero/deque v0.0.0-20180920172122-f6adf94963e4 // indirect
 	github.com/gammazero/workerpool v0.0.0-20181230203049-86a96b5d5d92
 	github.com/gogo/protobuf v1.2.2-0.20190723190241-65acae22fc9d // indirect
@@ -29,7 +29,6 @@ require (
 	golang.org/x/net v0.0.0-20210119194325-5f4716e94777
 	golang.org/x/oauth2 v0.0.0-20210220000619-9bb904979d93
 	google.golang.org/api v0.41.0
-	gopkg.in/yaml.v2 v2.2.8 // indirect
 )
 
 go 1.14
